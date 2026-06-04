@@ -214,7 +214,7 @@ El sitio incluye funcionalidades avanzadas como **financiamiento Buy Now Pay Lat
 
 ### Gabriel Torrealba
 
-**Desarrollador Web Semi Junior**
+**Desarrollador Web Junior**
 *Ingeniería de Sistemas*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Agabo32-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agabo32)
