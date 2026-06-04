@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=CC0000&center=true&vCenter=true&width=720&lines=🏁+Premium+Tires+for+Any+Terrain;🛒+E-Commerce+con+WooCommerce+%2B+Elementor;🌾+Agriculture+·+🏗️+Construction+·+🚜+Forklift;💳+Buy+Now%2C+Pay+Later+con+Klarna;📱+Diseño+Responsive+%26+Orientado+a+Conversión;🌐+En+producción:+priory.wisex3.com" alt="[Typing SVG](https://github.com/Agabo32/K9-ecommerce/blob/main/docs/images/cropped-Circle-K9logoweb-1.png)"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=CC0000&center=true&vCenter=true&width=720&lines=🏁+Premium+Tires+for+Any+Terrain;🛒+E-Commerce+con+WooCommerce+%2B+Elementor;🌾+Agriculture+·+🏗️+Construction+·+🚜+Forklift;💳+Buy+Now%2C+Pay+Later+con+Klarna;📱+Diseño+Responsive+%26+Orientado+a+Conversión;🌐+En+producción:+priory.wisex3.com" alt="[Typing SVG] docs/images/cropped-Circle-K9logoweb-1.png"/>
 
 <br/>
 
